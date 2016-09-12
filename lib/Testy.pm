@@ -8,7 +8,7 @@ use warnings;
 
 package Testy;
 
-our $VERSION = '0.001';
+our $VERSION = '0.001'; # from Testy-0.001.tar.gz
 
 use Path::Tiny;
 
