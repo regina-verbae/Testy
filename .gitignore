@@ -1,0 +1,6 @@
+*.swp
+*.swo
+/tbin/
+/.build/
+/Testy-*/
+/Testy-*.tar.gz
